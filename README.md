@@ -1,26 +1,14 @@
-<<<<<<< HEAD
-<h2 align="center"><u>GearNexus</u></h2>
+# Portfolio Responsive Complete
+## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
+### Portfolio Responsive Complete
 
-<h4 align="center"> Car AutoParts Store </h4>
+- Responsive Personal Portfolio Website HTML CSS & JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-<p align="center">
-    <img src="https://img.shields.io/github/forks/MTalhaofc/GearNexusWeb?style=for-the-badge&color=purple">
-    <img src="https://img.shields.io/github/license/MTalhaofc/GearNexusWeb?style=for-the-badge&color=blue">
-    <img src="https://img.shields.io/github/issues/MTalhaofc/GearNexusWeb?style=for-the-badge&color=red">
-<br>
-    <img src="https://img.shields.io/badge/Author-Muhammad Talha-magenta?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
-    <img src="https://img.shields.io/badge/Made%20In-Pakistan-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Html,Tailwind,Laravel-blue?style=flat-square">
-<br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MTalhaofc&repo=GearNexusWeb&theme=synthwave">
-</p>
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-### [+] Description
-GearNexus Web is your one-stop shop for all your automotive part needs. With a user-friendly interface and a vast inventory, finding the right auto parts has never been easier. Whether you're a car enthusiast or a professional mechanic, GearNexus Web has everything you need to keep your vehicle running smoothly.
+![preview img](/preview.png)
 
-# GearNexusWeb
-=======
-# GearNexusWebApp
->>>>>>> 012f126 (Initial commit)
